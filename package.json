@@ -1,0 +1,23 @@
+{
+  "name": "loom1",
+  "version": "1.0.0",
+  "description": "Web development portfolio, and beginnings of coding codex(?)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowieslefteye/Loom1.git"
+  },
+  "keywords": [
+    "marxism"
+  ],
+  "author": "Gabriel Sellers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowieslefteye/Loom1/issues"
+  },
+  "homepage": "https://github.com/bowieslefteye/Loom1#readme"
+}
