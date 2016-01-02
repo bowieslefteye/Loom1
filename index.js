@@ -3,52 +3,79 @@ const http = require('http'),
   content = `<!doctype html>
   <html>
     <body>
+
+
       <h1> Inertia is a property of matter </h1>
+
+
+      <img src="http://25.media.tumblr.com/tumblr_m4wxavw1VU1rtcl10o3_500.gif" height="20%"
+      width="30%" alignment="top"
+
+
+      <p>  </p>
+      <p>  </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-BeS8zbB6o" frameborder="0" allowfullscreen></iframe>
+
+
       <p>
         The time is: ${rightNow}
-      </p>
-    </body>
- 
+      </p> </body>
+
       <body>
-   <div style="position:  absolute; bottom: 5px; background-color: white">
+
+
+
 <h2> Characters in The Lord of The Rings </h2>
- <ul>
-   <li>   <b> Frodo Baggins </b>  </li>
-   <li>   <b> Bilbo Baggins </b>  </li>
-   <li>   <b> Gandalf '<i> (the Grey, later the White) </i>' </b> </li>
-   <li>  <b> Samwise Gamgee </b>  </li>
-   <li>  <b> Aragorn
-  <i> Ranger of the North
-  </i> </b>  </li>
-   <li>  <b> Arewn </b>  </li>
-   <li> <b> Elrond </b>  </li>
-   <li>   <b> Galadriel </b>  </li>
-   <li>   <b> Legolas </b>  </li>
-<li>  <b> Bro-omir </b>  </li>
-<li>  <b> Gimli  </b> <i> The one, the only boss-man RHYS DAVIES </i> </li>
-</ul>
+    <ol>
+       <li> Frodo Baggins </li>
+       <li> Bilbo Baggins </li>
+       <li> Gandalf The Grey </li>
+       <li> Gandalf The White </li>
+       <li> Samwise Gamgee </li>
+       <li> Aragorn Ranger of the North </li>
+       <li> Arewn </li>
+       <li> Elrond </li>
+       <li> Galadriel </li>
+       <li> Legolas </li>
+       <li> Bro-omir </li>
+       <li> Gimli, The one, the only boss-man RHYS DAVIES </li>
+       </ol>
+
+
 <p> </p>
+
+
 <h5> Characters I haves no cheezburger for, or just people that make Middle-Earth a more hostile place to live:</h5>
 
 
-<p>
+<p> </p>
 
-<ul>  <li> <b>  Gollum-Smegol </b> </li>
+
+<ol>  <li> <b>  Gollum-Smegol </b> </li>
+
 
 <li>  <b> Saruman  </b> </li>
 
+</ol>
 
 <h6> Badd-er Beings: True Evil alignment? </h6>
 
 
 <p> </p>
-<ul>
+
+
+
+
+<ol>
    <li>  <b> Balrog </b> </li>
    <li>  <b> Nazgûl </b> </li>
-   </ul>
-</div
+   </ol>
+
+
 
     </body>
+
 
   </html>`;
 
