@@ -20,9 +20,8 @@ const http = require('http'),
 
       <p>
         The time is: ${rightNow}
-      </p> </body>
+      </p>
 
-      <body>
 
 
 
@@ -49,7 +48,7 @@ const http = require('http'),
 <h5> Characters I haves no cheezburger for, or just people that make Middle-Earth a more hostile place to live:</h5>
 
 
-<p>
+<p> </p>
 
 
 <ol>  <li> <b>  Gollum-Smegol </b> </li>
@@ -67,10 +66,10 @@ const http = require('http'),
 
 
 
-<ul>
+<ol>
    <li>  <b> Balrog </b> </li>
-   <li>  <b> Nazgûl </b> </li>
-   </ul>
+   <li>  <b> Nazgul </b> </li>
+   </ol>
 
 
 
