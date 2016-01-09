@@ -9,7 +9,7 @@ const http = require('http'),
 
 
       <img src="http://25.media.tumblr.com/tumblr_m4wxavw1VU1rtcl10o3_500.gif" height="20%"
-      width="30%" alignment="top"
+      width="30%" alignment="top"/>
 
 
 
