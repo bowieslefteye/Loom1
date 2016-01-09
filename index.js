@@ -12,8 +12,7 @@ const http = require('http'),
       width="30%" alignment="top"
 
 
-      <p>  </p>
-      <p>  </p>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-BeS8zbB6o" frameborder="0" allowfullscreen></iframe>
 
@@ -42,13 +41,10 @@ const http = require('http'),
        </ol>
 
 
-<p> </p>
-
 
 <h5> Characters I haves no cheezburger for, or just people that make Middle-Earth a more hostile place to live:</h5>
 
 
-<p> </p>
 
 
 <ol>  <li> <b>  Gollum-Smegol </b> </li>
@@ -61,7 +57,6 @@ const http = require('http'),
 <h6> Badd-er Beings: True Evil alignment? </h6>
 
 
-<p> </p>
 
 
 
